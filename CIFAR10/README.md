@@ -10,7 +10,7 @@ This code generates Figure 1 and Figure 6 in the [paper](https://arxiv.org/abs/1
 #### Generate data
 `python cifar2np.py`
 
-#### Test the performance of compared gradient dynamic
+#### Test the performance of compared gradient dynamics
 - GD: `python gd.py`
 - GLD const: `python gld.py`
 - GLD dynamic: `python gld_dyn.py`

@@ -9,8 +9,14 @@ An implementation for the paper:
 
 ## Usage
 
+### Two-dimensional experiments
+See folder `2Dim`.
+
 ### One hidden layer experiments
 See folder `OneHiddenLayer`.
+
+### FashionMNIST
+See folder `FashionMNIST`.
 
 ### SVHN adn CIFAR-10
 See folder `SVHN` and `CIFAR-10`.
