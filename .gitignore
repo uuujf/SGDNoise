@@ -1,0 +1,33 @@
+## logs
+*.pth.tar
+*logs/
+*log/
+
+*.sh
+*test/
+*.npz
+
+
+## misc
+*.vscode/
+*.idea/
+*.ropeproject/
+*__pycache__/
+*.swp
+*.DS_Store
+
+## latex
+*.aux
+*.out
+*.toc
+*.log
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.nav
+*.snm
+*.xdv
+*.dvi
+*.gz
+*.ps
