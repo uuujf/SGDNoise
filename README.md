@@ -21,5 +21,5 @@ See folder `FashionMNIST`.
 ### SVHN adn CIFAR-10
 See folder `SVHN` and `CIFAR-10`.
 
-### Note
+## Note
 - [Bibtex](https://uuujf.github.io/papers/sgdnoise/SGD_ICML_2019.bib), [Slides](https://uuujf.github.io/papers/sgdnoise/slides.pdf), [Poster](https://uuujf.github.io/papers/sgdnoise/poster.pdf).
